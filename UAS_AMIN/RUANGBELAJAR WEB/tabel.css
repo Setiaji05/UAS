@@ -1,0 +1,31 @@
+body {
+    padding: 0;
+    margin: 0;
+    background-image: url(img/BG.jpg);
+    background-size: cover;
+    
+    font-family: 'Montserrat', sans-serif;
+}
+h1 {
+    color: white;
+    font-size: 50px;
+}
+h1, form{
+    text-align: center;
+}
+.tombol, a{
+    text-align: center;
+    text-decoration: none;
+    color: black;   
+}
+
+table{
+    background-color: white;
+    padding: 20px;
+    border-radius: 20px;
+}
+
+
+
+
+
